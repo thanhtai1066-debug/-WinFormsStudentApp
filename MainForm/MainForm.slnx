@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../../Lab04/524H0066_Le Thanh Tai/LoginForm/BLL/BLL.csproj" />
+  <Project Path="../../Lab04/524H0066_Le Thanh Tai/LoginForm/DAL/DAL.csproj" />
+  <Project Path="../../Lab04/524H0066_Le Thanh Tai/LoginForm/LoginUI/WebUI.csproj" />
+  <Project Path="MainForm.csproj" />
+</Solution>
