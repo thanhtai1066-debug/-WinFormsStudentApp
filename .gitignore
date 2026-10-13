@@ -365,3 +365,4 @@ FodyWeavers.xsd
 .vs/
 bin/
 obj/
+/MainForm/.vs/MainForm.slnx/v18/.suo
