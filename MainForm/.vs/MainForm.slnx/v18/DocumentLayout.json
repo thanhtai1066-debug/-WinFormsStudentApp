@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i (2)\\MainForm\\",
+  "WorkspaceRootPath": "C:\\CNPM\\LAB\\Lab05\\MainForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85778B69-3E7B-4DC4-9E4E-B16BA8E03B3A}|MainForm.csproj|C:\\Users\\Admin\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i (2)\\MainForm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85778B69-3E7B-4DC4-9E4E-B16BA8E03B3A}|MainForm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85778B69-3E7B-4DC4-9E4E-B16BA8E03B3A}|MainForm.csproj|c:\\cnpm\\lab\\lab05\\mainform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85778B69-3E7B-4DC4-9E4E-B16BA8E03B3A}|MainForm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85778B69-3E7B-4DC4-9E4E-B16BA8E03B3A}|MainForm.csproj|C:\\Users\\Admin\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i (2)\\MainForm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{85778B69-3E7B-4DC4-9E4E-B16BA8E03B3A}|MainForm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{85778B69-3E7B-4DC4-9E4E-B16BA8E03B3A}|MainForm.csproj|c:\\cnpm\\lab\\lab05\\mainform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85778B69-3E7B-4DC4-9E4E-B16BA8E03B3A}|MainForm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,32 +21,28 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i (2)\\MainForm\\Form1.cs",
+              "DocumentMoniker": "C:\\CNPM\\LAB\\Lab05\\MainForm\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i (2)\\MainForm\\Form1.cs",
+              "ToolTip": "C:\\CNPM\\LAB\\Lab05\\MainForm\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAWwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-13T06:30:36.92Z",
+              "WhenOpened": "2026-10-13T07:11:15.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i (2)\\MainForm\\Form1.cs",
+              "DocumentMoniker": "C:\\CNPM\\LAB\\Lab05\\MainForm\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i (2)\\MainForm\\Form1.cs [Design]",
+              "ToolTip": "C:\\CNPM\\LAB\\Lab05\\MainForm\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T13:27:50.345Z",
+              "WhenOpened": "2026-10-13T07:10:48.249Z",
               "EditorCaption": " [Design]"
             }
           ]

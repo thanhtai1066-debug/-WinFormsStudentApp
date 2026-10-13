@@ -1,6 +1,6 @@
 <Solution>
-  <Project Path="../../Lab04/524H0066_Le Thanh Tai/LoginForm/BLL/BLL.csproj" />
-  <Project Path="../../Lab04/524H0066_Le Thanh Tai/LoginForm/DAL/DAL.csproj" />
-  <Project Path="../../Lab04/524H0066_Le Thanh Tai/LoginForm/LoginUI/WebUI.csproj" />
+  <Project Path="../../Lab04/524H0066_Le Thanh Tai/LoginForm/BLL/BLL.csproj" Id="245faffc-d6a7-40c4-9b45-c4303224da79" />
+  <Project Path="../../Lab04/524H0066_Le Thanh Tai/LoginForm/DAL/DAL.csproj" Id="c3285340-e446-4d84-9b2b-5f0111efa88c" />
+  <Project Path="../../Lab04/524H0066_Le Thanh Tai/LoginForm/LoginUI/WebUI.csproj" Id="aac67eee-1a2b-40c3-b9ce-7c4447cb1da5" />
   <Project Path="MainForm.csproj" Id="85778b69-3e7b-4dc4-9e4e-b16ba8e03b3a" />
 </Solution>
